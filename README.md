@@ -1,6 +1,5 @@
 - Hi, I’m @jahnavi-balla
-- I’m interested in Programming
-- I’m currently learning Data Science & AIML
+- I’m interested in Data Science & AIML
 - I’m looking to collaborate on Data Analytics or Data Science or AIML Projects
 - How to reach me mail:jahnaviballa1406@gmail.com or linkedin-https://www.linkedin.com/in/balla-jahnavi-279811290/
 
